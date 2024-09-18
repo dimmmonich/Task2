@@ -4,7 +4,7 @@ Modified Line 3
 Modified Line 4
 Line 5
 Line 6
-Line 7
-Line 8
+Better Line 7
+Better Line 8
 New Line 9
 New Line 10
