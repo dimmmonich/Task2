@@ -2,9 +2,9 @@ Modified Line 1
 Modified Line 2
 Modified Line 3
 Modified Line 4
-New Line 5
-New Line 6
+Line 5
+Line 6
 Line 7
 Line 8
-Line 9
-Line 10
+New Line 9
+New Line 10
